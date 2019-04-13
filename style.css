@@ -29,3 +29,8 @@ div {
     height: 37.5px;
     float: left;
 }
+
+button {
+    margin: 0 15px 15px 15px;
+    font-size: 14px;
+}
