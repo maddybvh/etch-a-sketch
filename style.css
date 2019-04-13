@@ -29,7 +29,3 @@ div {
     height: 37.5px;
     float: left;
 }
-
-.square:hover {
-    background-color: black;
-}
